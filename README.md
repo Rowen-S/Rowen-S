@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Welcome to my Github page! I am Fernando and I am currently a web3 developer! 
 
-<img align="right" alt="img" src="https://github.com/Rowen-S/Rowen-S/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/Rowen-S/Rowen-S/blob/main/cover_image.jpeg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
