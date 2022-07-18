@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!--[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Rowen-S/)-->
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:metarowen@gmail.com)
 
-Welcome to my Github page! I am Fernando and I am currently a web3 developer! 
+Welcome to my Github page! I am Rowen and I am currently a web3 developer! 
 
 <img align="right" alt="img" src="https://github.com/Rowen-S/Rowen-S/blob/main/cover_image.jpeg" width="50%" height="auto" />
 
