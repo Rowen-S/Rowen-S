@@ -25,8 +25,7 @@ Welcome to my Github page! I am Rowen and I am currently a web3 developer!
 <img align="right" alt="img" src="https://github.com/Rowen-S/Rowen-S/blob/main/cover_image.jpeg" width="50%" height="auto" />
 
 
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Bachelor Degree  
+#### 🌱 Things I am currently working on:
 - Learn Solidity contract development 
 
 #### :muscle: Things I am challenging myself with:
