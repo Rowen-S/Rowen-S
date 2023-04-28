@@ -46,7 +46,7 @@ Welcome to my Github page! I am Rowen and I am currently a web3 developer!
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <br />
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg"></code>
-<br /
+<br />
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <br />
